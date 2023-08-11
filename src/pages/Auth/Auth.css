@@ -19,6 +19,7 @@
 .auth-container-2 {
   min-width: 18%;
   display: flex;
+  margin-top: 60px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -29,7 +30,6 @@
   background-color: white;
   padding: 20px;
   position: relative;
-  margin-top: 60px;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
